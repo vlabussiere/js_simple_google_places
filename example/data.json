@@ -1,0 +1,300 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "14",
+            "short_name" : "14",
+            "types" : [ "street_number" ]
+         },
+         {
+            "long_name" : "Rue Basse",
+            "short_name" : "Rue Basse",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Saulon-la-Rue",
+            "short_name" : "Saulon-la-Rue",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Côte-d'Or",
+            "short_name" : "Côte-d'Or",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "Bourgogne Franche-Comté",
+            "short_name" : "Bourgogne Franche-Comté",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "France",
+            "short_name" : "FR",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "21910",
+            "short_name" : "21910",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003e14 Rue Basse\u003c/span\u003e, \u003cspan class=\"postal-code\"\u003e21910\u003c/span\u003e \u003cspan class=\"locality\"\u003eSaulon-la-Rue\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eFrance\u003c/span\u003e",
+      "formatted_address" : "14 Rue Basse, 21910 Saulon-la-Rue, France",
+      "formatted_phone_number" : "03 80 36 61 03",
+      "geometry" : {
+         "location" : {
+            "lat" : 47.219606,
+            "lng" : 5.065255000000001
+         },
+         "viewport" : {
+            "northeast" : {
+               "lat" : 47.2209579302915,
+               "lng" : 5.066598930291502
+            },
+            "southwest" : {
+               "lat" : 47.21825996970851,
+               "lng" : 5.063900969708497
+            }
+         }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+      "id" : "f9a412ee74450868e2959a3683f4466ad056520a",
+      "international_phone_number" : "+33 3 80 36 61 03",
+      "name" : "Sonofep , la plate forme végétale",
+      "opening_hours" : {
+         "exceptional_date" : [],
+         "open_now" : true,
+         "periods" : [
+            {
+               "close" : {
+                  "day" : 0,
+                  "time" : "2300"
+               },
+               "open" : {
+                  "day" : 0,
+                  "time" : "0900"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 1,
+                  "time" : "1900"
+               },
+               "open" : {
+                  "day" : 1,
+                  "time" : "1400"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 2,
+                  "time" : "1200"
+               },
+               "open" : {
+                  "day" : 2,
+                  "time" : "0900"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 2,
+                  "time" : "1900"
+               },
+               "open" : {
+                  "day" : 2,
+                  "time" : "1400"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 3,
+                  "time" : "1200"
+               },
+               "open" : {
+                  "day" : 3,
+                  "time" : "0900"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 3,
+                  "time" : "2310"
+               },
+               "open" : {
+                  "day" : 3,
+                  "time" : "1400"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 4,
+                  "time" : "1200"
+               },
+               "open" : {
+                  "day" : 4,
+                  "time" : "0900"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 4,
+                  "time" : "1900"
+               },
+               "open" : {
+                  "day" : 4,
+                  "time" : "1400"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 5,
+                  "time" : "1200"
+               },
+               "open" : {
+                  "day" : 5,
+                  "time" : "0900"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 5,
+                  "time" : "1900"
+               },
+               "open" : {
+                  "day" : 5,
+                  "time" : "1400"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 6,
+                  "time" : "1200"
+               },
+               "open" : {
+                  "day" : 6,
+                  "time" : "0900"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 6,
+                  "time" : "1900"
+               },
+               "open" : {
+                  "day" : 6,
+                  "time" : "1400"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "lundi: 09:00 – 12:00, 14:00 – 19:00",
+            "mardi: 09:00 – 12:00, 14:00 – 19:00",
+            "mercredi: 09:00 – 12:00, 14:00 – 19:00",
+            "jeudi: 09:00 – 12:00, 14:00 – 19:00",
+            "vendredi: 09:00 – 12:00, 14:00 – 19:00",
+            "samedi: 09:00 – 12:00, 14:00 – 19:00",
+            "dimanche: Fermé"
+         ]
+      },
+      "photos" : [
+         {
+            "height" : 512,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/118424474526130831848/photos\"\u003eSonofep , la plate forme végétale\u003c/a\u003e"
+            ],
+            "photo_reference" : "CoQBdwAAAMZGkHmBN0cnJ1QxVcNiU_n5MrNS9YdlenW-KrW9g-a-A_Rd49NPBU4ShPvHeg3KUJ5FkwxyVlSLZOITKBi_I_3SYRXopLpcdLMRbM0ZbKxGxy-r9ak687iE70ZtewqO1I1h7LP79N8DpMppElPXH1wHtn8Mopmt-9LulXZrm7INEhABiN92QUI1CDxjP3KBde3WGhTyfuSemXvBV6Z6TLY5Op4EQURYww",
+            "width" : 513
+         }
+      ],
+      "place_id" : "ChIJt5-D9gmZ8kcRGWLP4tZZP0I",
+      "rating" : 4.2,
+      "reference" : "CmRRAAAAoPm9fZwPZVLVpsQ832S5v5JWSs2Vu7-siqla10ko1nRMLdLtOtE_W7dd24KRrh1tXccDZum6U_tb7rrbdEr6Z1Vk7X2-yg_OLqiZLK9pAps1fpGWbonoB67ImDKXhZ_iEhCtE2TqkGQdVNninu5T9BAfGhRfH_FjXr6lo_vdvDxTBOuHBdiVVA",
+      "reviews" : [
+         {
+            "aspects" : [
+               {
+                  "rating" : 1,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Thierry PITOIZET",
+            "author_url" : "https://www.google.com/maps/contrib/111664309733237625112/reviews",
+            "language" : "fr",
+            "profile_photo_url" : "//lh4.googleusercontent.com/-FJ8CI5ZGgNQ/AAAAAAAAAAI/AAAAAAAACzE/yM2e4AamTo4/s128/photo.jpg",
+            "rating" : 3,
+            "relative_time_description" : "il y a 2 mois",
+            "text" : "Je note seulement 3 car c'est effectivement superbe, le conseil est bon mais les tarifs sont extrêmement élevés par rapport a la concurence dijonnaise.",
+            "time" : 1482145365
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Adil Amoura",
+            "author_url" : "https://www.google.com/maps/contrib/100617327284469790244/reviews",
+            "language" : "fr",
+            "profile_photo_url" : "//lh6.googleusercontent.com/-hlaUbjXH9D8/AAAAAAAAAAI/AAAAAAAAAAA/AAomvV15uaV7jOAmTh9ujrbIcLAYGMn28A/s128/photo.jpg",
+            "rating" : 5,
+            "relative_time_description" : "il y a 4 mois",
+            "text" : "Acceuil de qualité, bon rapport qualité prix. Je suis très satisfait du service et des produits\nÀ conseiller vivement ",
+            "time" : 1477027701
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "michael jegou",
+            "author_url" : "https://www.google.com/maps/contrib/111161139572343002284/reviews",
+            "language" : "fr",
+            "profile_photo_url" : "//lh4.googleusercontent.com/--l71wI8yS8M/AAAAAAAAAAI/AAAAAAAAAAA/AAomvV2V4byoGkY3nVa_KUk6cYE1lb1NyQ/s128/photo.jpg",
+            "rating" : 5,
+            "relative_time_description" : "il y a 4 ans",
+            "text" : "",
+            "time" : 1341403412
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 1,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Un utilisateur de Google",
+            "language" : "fr",
+            "rating" : 3,
+            "relative_time_description" : "il y a 5 ans",
+            "text" : "",
+            "time" : 1313792458
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Juliette Devaleix",
+            "author_url" : "https://www.google.com/maps/contrib/113569788143527289362/reviews",
+            "language" : "en",
+            "profile_photo_url" : "//lh3.googleusercontent.com/-_6l_6SHMGd0/AAAAAAAAAAI/AAAAAAAAAJU/E34WGCiMlNY/s128/photo.jpg",
+            "rating" : 5,
+            "relative_time_description" : "il y a un an",
+            "text" : "",
+            "time" : 1456218227
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [ "florist", "food", "store", "point_of_interest", "establishment" ],
+      "url" : "https://maps.google.com/?cid=4773632909499130393",
+      "utc_offset" : 60,
+      "vicinity" : "14 Rue Basse, Saulon-la-Rue",
+      "website" : "http://www.sonofep.fr/"
+   },
+   "status" : "OK"
+}
